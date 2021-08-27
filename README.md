@@ -1,0 +1,1 @@
+This is Szuching's first git project!
